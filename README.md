@@ -1,5 +1,3 @@
-Here’s the updated **README** note with the additional line:  
-
 ---
 
 # Student Management System  
